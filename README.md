@@ -15,5 +15,4 @@ This is an TensorFlow Implementation of Ooze - Handwritten Text Generator by Aks
 
     Surolia, A. (2021) “Ooze - Handwritten Text Generator”,
     GLS KALP – Journal of Multidisciplinary Studies, 1(4), pp. 35–49.
-    Available at: http://glskalp.in/index.php/glskalp/article/view/19
-    (Accessed: 15 February 2022).
+    Available at: http://glskalp.in/index.php/glskalp/article/view/19.
